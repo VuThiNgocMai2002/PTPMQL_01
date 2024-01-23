@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+</style>
+</head>
+<body>
+
+<h2>Vũ Thị Ngọc Mai 2021050430</h2>
+
+<p>Vũ Thị Ngọc Mai 2021050430.</p>
+
+<div>Vũ Thị Ngọc Mai 2021050430</div>
+
+</body>
+</html>
+
