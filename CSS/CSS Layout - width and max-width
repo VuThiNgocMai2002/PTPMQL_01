@@ -1,0 +1,30 @@
+<html>
+<head>
+<style>
+div.ex1 {
+  width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
+
+div.ex2 {
+  max-width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
+</style>
+</head>
+<body>
+
+<h2>Vũ Thị Ngọc Mai 2021050430</h2>
+
+<div class="ex1">Vũ Thị Ngọc Mai 2021050430</div>
+<br>
+
+<div class="ex2">Vũ Thị Ngọc Mai 2021050430</div>
+
+<p><strong>Tip:</strong>Vũ Thị Ngọc Mai 2021050430</p>
+
+</body>
+</html>
+
