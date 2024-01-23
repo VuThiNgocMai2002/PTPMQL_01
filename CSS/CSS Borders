@@ -1,0 +1,35 @@
+<html>
+<head>
+<style>
+p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;}
+</style>
+</head>
+<body>
+
+<h2>The border-style Property</h2>
+<p>This property specifies what kind of border to display:</p>
+
+<p class="dotted">Vũ Thị Ngọc Mai 2021050430</p>
+<p class="dashed">Vũ Thị Ngọc Mai 2021050430</p>
+<p class="solid">Vũ Thị Ngọc Mai 2021050430.</p>
+<p class="double">Vũ Thị Ngọc Mai 2021050430</p>
+<p class="groove">Vũ Thị Ngọc Mai 2021050430</p>
+<p class="ridge">Vũ Thị Ngọc Mai 2021050430.</p>
+<p class="inset">Vũ Thị Ngọc Mai 2021050430</p>
+<p class="outset">Vũ Thị Ngọc Mai 2021050430.</p>
+<p class="none">Vũ Thị Ngọc Mai 2021050430.</p>
+<p class="hidden">Vũ Thị Ngọc Mai 2021050430</p>
+<p class="mix">Vũ Thị Ngọc Mai 2021050430</p>
+
+</body>
+</html>
