@@ -1,0 +1,29 @@
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid;
+}
+</style>
+</head>
+<body>
+
+<h2>Điền vào bảng</h2>
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+  </tr>
+  <tr>
+    <td>Vũ</td>
+    <td>Thị</td>
+  </tr>
+  <tr>
+    <td>Ngọc</td>
+    <td>Mai</td>
+  </tr>
+</table>
+
+</body>
+</html>
