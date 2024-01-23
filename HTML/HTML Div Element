@@ -1,0 +1,16 @@
+<html>
+<style>
+div {
+  background-color: #FFF4A3;
+}
+</style>
+<body>
+
+<h1>HTML DIV Example</h1>
+
+Vũ Thị Ngọc Mai <div>I am a div</div> 2021050430.
+
+<p>The yellow background is added to demonstrate the footprint of the DIV element.</p>
+
+</body>
+</html>
