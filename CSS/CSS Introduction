@@ -1,0 +1,26 @@
+<html>
+<head>
+<style>
+body {
+  background-color: rgb(248, 251, 252);
+}
+
+h1 {
+  color: rgb(11, 1, 1);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>Vũ Thị Ngọc Mai 2021050430</h1>
+<p>Vũ Thị Ngọc Mai 2021050430.</p>
+
+</body>
+</html>
+
