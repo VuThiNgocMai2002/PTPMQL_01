@@ -1,0 +1,17 @@
+<html>
+<head>
+<style>
+p {
+  text-align: center;
+  color: red;
+} 
+</style>
+</head>
+<body>
+
+<p>Every paragraph will be affected by the style.</p>
+<p id="para1">Vũ Thị Ngọc Mai 2021050430</p>
+<p>Vũ Thị Ngọc Mai 2021050430.</p>
+
+</body>
+</html>
