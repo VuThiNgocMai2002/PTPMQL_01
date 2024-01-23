@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+div.static {
+  position: static;
+  border: 3px solid #73AD21;
+}
+</style>
+</head>
+<body>
+
+<h2>Vũ Thị Ngọc Mai 2021050430</h2>
+
+<p>Vũ Thị Ngọc Mai 2021050430</p>
+
+<div class="static">
+    Vũ Thị Ngọc Mai 2021050430
+</div>
+
+</body>
+</html>
+
+
