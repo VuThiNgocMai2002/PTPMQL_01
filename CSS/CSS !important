@@ -1,0 +1,28 @@
+<html>
+<head>
+<style>
+#myid {
+  background-color: blue;
+}
+
+.myclass {
+  background-color: gray;
+}
+
+p {
+  background-color: red !important;
+}
+</style>
+</head>
+<body>
+
+<p>Vũ Thị Ngọc Mai 2021050430</p>
+
+<p class="myclass">Vũ Thị Ngọc Mai 2021050430</p>
+
+<p id="myid">Vũ Thị Ngọc Mai 2021050430</p>
+
+</body>
+</html>
+
+
