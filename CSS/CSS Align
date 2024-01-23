@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+
+    <h2>Vũ Thị Ngọc Mai 2021050430</h2>
+    <p>Vũ Thị Ngọc Mai 2021050430</p>
+    
+    <div class="center">
+      <p>Vũ Thị Ngọc Mai 2021050430</p>
+    </div>
+    
+    </body>
+    </html>
