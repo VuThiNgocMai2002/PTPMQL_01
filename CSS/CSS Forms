@@ -1,0 +1,20 @@
+<html>
+<head>
+<style> 
+input {
+  width: 100%;
+}
+</style>
+</head>
+<body>
+
+<h2>Vũ Thị Ngọc Mai 2021050430</h2>
+
+<form>
+  <label for="fname">First Name</label>
+  <input type="text" id="fname" name="fname">
+</form>
+
+</body>
+</html>
+
