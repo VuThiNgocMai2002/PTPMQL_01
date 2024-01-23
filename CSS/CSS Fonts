@@ -1,0 +1,26 @@
+<html>
+<head>
+<style>
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+</style>
+</head>
+<body>
+
+<h1>Vũ Thị Ngọc Mai 2021050430</h1>
+<p class="p1">Vũ Thị Ngọc Mai 2021050430</p>
+<p class="p2">Vũ Thị Ngọc Mai 2021050430</p>
+<p class="p3">Vũ Thị Ngọc Mai 2021050430</p>
+
+</body>
+</html>
+
